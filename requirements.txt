@@ -31,10 +31,10 @@ mdurl==0.1.2
 narwhals==1.14.0
 numpy==1.26.4
 oauthlib==3.2.2
-packaging==24.2
+packaging==23.2
 pandas==2.2.3
 pillow==10.4.0
-protobuf==5.28.3
+protobuf==4.25.5
 pyarrow==18.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
@@ -54,8 +54,8 @@ smmap==5.0.1
 sql_metadata==2.15.0
 sqlparse==0.5.2
 st-gsheets-connection==0.1.0
-streamlit==1.39.0
-tenacity==9.0.0
+streamlit==1.32.0
+tenacity==8.5.0
 toml==0.10.2
 tornado==6.4.1
 typing_extensions==4.12.2
