@@ -3,3 +3,7 @@ port = 80
 
 [browser]
 gatherUsageStats = false
+
+[theme]
+base="dark"
+font="sans serif"
